@@ -1,0 +1,7 @@
+{
+  "start": "bash start.sh",
+  "install": "pip3 install -r requirements.txt",
+  "watch": {
+    "throttle": 100
+  }
+}
